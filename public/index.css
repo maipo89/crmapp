@@ -749,8 +749,11 @@ body {
 }
 
 @media screen and (max-width: 372px) {
-  .create-contact input {
+    .create-contact input {
     width: 6rem;
   }
 
+  .body {
+    padding: 20px;
+  }
 }
